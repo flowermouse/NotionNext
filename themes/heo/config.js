@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '行公义，好怜悯',
-  HEO_HERO_TITLE_2: '存谦卑的心，与你的神同行',
-  HEO_HERO_TITLE_3: 'To act justly and to love mercy and to walk humbly with your God',
+  HEO_HERO_TITLE_1: 'To act justly and to love mercy',
+  HEO_HERO_TITLE_2: 'and to walk humbly with your God',
+  HEO_HERO_TITLE_3: 'Bible Micah 6:8',
   HEO_HERO_TITLE_4: '行走大地',
   HEO_HERO_TITLE_5: '路漫漫其修远兮，吾将上下而求索',
   HEO_HERO_TITLE_LINK: 'https://github.com/flowermouse',
