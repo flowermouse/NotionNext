@@ -8,8 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://flowermouse.vercel.app' },
-    { title: '访问我的GitHub主页', url: 'https://github.com/flowermouse' }
+    { title: 'To act justly and to love mercy and to walk humbly with your God'},
+    { title: '行公义，好怜悯，存谦卑的心，与你的神同行'},
+    { title: 'Bible Micah 6:8'}
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,9 +19,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'To act justly and to love mercy',
-  HEO_HERO_TITLE_2: 'and to walk humbly with your God',
-  HEO_HERO_TITLE_3: 'Bible Micah 6:8',
+  HEO_HERO_TITLE_1: '机器学习',
+  HEO_HERO_TITLE_2: '人工智能',
+  HEO_HERO_TITLE_3: '学习分享',
   HEO_HERO_TITLE_4: '行走大地',
   HEO_HERO_TITLE_5: '路漫漫其修远兮，吾将上下而求索',
   HEO_HERO_TITLE_LINK: 'https://github.com/flowermouse',
